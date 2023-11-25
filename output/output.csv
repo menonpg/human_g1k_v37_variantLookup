@@ -1,0 +1,5 @@
+chrom,pos,ref,alt,depth,alt_reads,percent_alt_reads,percent_ref_reads,gene,variant_effect,minor_allele,minor_allele_frequency,somatic,id
+1,1158631,A,G,,,,,,,,,,
+1,1246004,A,G,,,,,,,,,,
+1,1249187,G,A,,,,,,,,,,
+1,1261824,G,C,,,,,,,,,,
